@@ -1,0 +1,23 @@
+{
+  "name": "berkeley-rl-hw",
+  "version": "1.0.0",
+  "description": "berkeley RL course corresponding homework in FALL 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AngelLittleChaochao/RL-berkeley.git"
+  },
+  "keywords": [
+    "RL",
+    "Berkeley"
+  ],
+  "author": "Chaochao Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelLittleChaochao/RL-berkeley/issues"
+  },
+  "homepage": "https://github.com/AngelLittleChaochao/RL-berkeley#readme"
+}
